@@ -19,14 +19,14 @@ def get_response(user_input):
 
 def chat():
     """Start the chatbot conversation."""
-    print("🤖 ChatBot: Hello! Type 'exit' to end the chat.")
+    print("ChatBot: Hello! Type 'exit' to end the chat.")
     while True:
         user_input = input("You: ")
         if user_input.lower() == "exit":
-            print("🤖 ChatBot: Goodbye!")
+            print("ChatBot: Goodbye!")
             break
         response = get_response(user_input)
-        print(f"🤖 ChatBot: {response}")
+        print(f"ChatBot: {response}")
 
 if __name__ == "__main__":
     chat()
