@@ -12,7 +12,7 @@ A simple chatbot that responds to user input using predefined rules.
 
 ## 🛠️ Installation & Usage
 
-### **1️⃣ Clone this repository**
+### **Clone this repository**
 ```bash
 git clone https://github.com/niharikamg/chatbot.git
 cd chatbot
