@@ -3,10 +3,10 @@
 A simple chatbot that responds to user input using predefined rules.
 
 ## 🚀 Features
-✅ Responds to common greetings and questions  
-✅ Rule-based keyword detection  
-✅ Randomized responses for a more natural feel  
-✅ Runs in the command line  
+ Responds to common greetings and questions  
+ Rule-based keyword detection  
+ Randomized responses for a more natural feel  
+ Runs in the command line  
 
 ---
 
